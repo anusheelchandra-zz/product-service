@@ -1,0 +1,4 @@
+product:
+  fileName: product_data.csv
+  columnsSeparator: ','
+  ignoreQuotation: true
